@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Chocolate Cake",
+    "description": "A rich and decadent chocolate cake that's perfect for special occasions.",
+    "image": "chocolate-cake",
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "3/4 cup unsweetened cocoa powder",
+      "1 1/2 teaspoons baking soda",
+      "1 1/2 teaspoons baking powder",
+      "1/2 teaspoon salt",
+      "1 cup unsalted butter, softened",
+      "2 cups granulated sugar",
+      "4 large eggs, room temperature",
+      "2 teaspoons vanilla extract",
+      "1 1/2 cups whole milk, room temperature"
+    ],
+    "steps": [
+      "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour two 9-inch cake pans.",
+      "In a medium bowl, whisk together the flour, cocoa powder, baking soda, baking powder, and salt.",
+      "In a large bowl, cream together the butter and sugar until light and fluffy. Beat in the eggs, one at a time, then stir in the vanilla.",
+      "Gradually mix in the dry ingredients, alternating with the milk, until just blended. Pour the batter evenly into the prepared pans.",
+      "Bake for 30 to 35 minutes, or until a toothpick inserted into the center of the cakes comes out clean. Allow to cool completely before frosting and serving."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Vanilla Bean Ice Cream",
+    "description": "A classic homemade ice cream flavored with real vanilla beans.",
+    "image": "vanilla_ice_cream",
+    "ingredients": [
+      "2 cups heavy cream",
+      "1 cup whole milk",
+      "3/4 cup granulated sugar",
+      "1/4 teaspoon salt",
+      "1 vanilla bean, split lengthwise and scraped",
+      "6 large egg yolks",
+      "1 teaspoon pure vanilla extract"
+    ],
+    "steps": [
+      "In a medium saucepan, heat the milk, cream, sugar, and salt over medium heat until the sugar has dissolved.",
+      "Cut the vanilla bean in half lengthwise, then scrape out the seeds and add them to the milk mixture. Drop in the vanilla bean pod.",
+      "In a medium bowl, whisk together the egg yolks. Gradually pour in the hot milk mixture, whisking constantly, then pour the mixture back into the saucepan.",
+      "Cook over low heat, stirring constantly, until the mixture thickens and coats the back of a spoon, about 5 minutes. Remove from heat and strain into a bowl.",
+      "Stir in the vanilla extract. Cover and chill in the refrigerator for at least 4 hours, or overnight.",
+      "Pour the mixture into an ice cream maker and freeze according to the manufacturer's instructions. Transfer to a container and freeze for at least 2 hours before serving."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Apple Pie",
+    "description": "A classic dessert featuring tender apples baked in a flaky crust.",
+    "image": "apple_pie",
+    "ingredients": [
+      "1 recipe double crust pie dough",
+      "2 1/2 pounds Granny Smith apples, peeled, cored, and sliced",
+      "1/2 cup granulated sugar",
+      "1/4 cup all-purpose flour",
+      "1 teaspoon ground cinnamon",
+      "1/4 teaspoon ground nutmeg",
+      "1/4 teaspoon salt"
+    ],
+    "steps": [
+          "Preheat the oven to 375 degrees F (190 degrees C).",
+          "In a large bowl, toss together the apples, sugar, flour, cinnamon, nutmeg, and salt.",
+          "Roll out one of the pie crusts and place it into a 9-inch pie dish. Pour in the apple filling.",
+          "Roll out the second pie crust and cut into strips. Weave the strips over the top of the pie to create a lattice pattern.",
+          "Bake for 45 to 50 minutes, or until the crust is golden brown and the filling is bubbling. Allow to cool for at least 30 minutes before serving."
+    ]
+  }
+]
